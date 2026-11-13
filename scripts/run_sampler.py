@@ -10,7 +10,7 @@ def main():
         coverage=50,
         delta=0.0050,
         U=2**256-1,
-        timeout=1800,
+        timeout=300,
         threads=60,
     )
 
