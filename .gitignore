@@ -1,0 +1,11 @@
+# Ambiente Python
+venv/
+.venv/
+
+# Cache di Python
+__pycache__/
+*.py[cod]
+
+# File temporanei e risultati del sampler
+tmp/
+benchmarks/*_results*/
